@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spark23", "Spark23\Spark23.csproj", "{D8E63BB1-AEC4-49A0-B083-444EA9C00001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E63BB1-AEC4-49A0-B083-444EA9C00001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E63BB1-AEC4-49A0-B083-444EA9C00001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E63BB1-AEC4-49A0-B083-444EA9C00001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E63BB1-AEC4-49A0-B083-444EA9C00001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {623EADDB-A328-4BCC-9F42-6135B376D252}
+	EndGlobalSection
+EndGlobal
